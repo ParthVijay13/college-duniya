@@ -1,0 +1,11 @@
+.table-cell, .table-header {
+    border: 1px solid rgba(0, 0, 0, 0.178); /* Set border color and size */
+  }
+  
+  .table-row {
+    border-bottom: 1px solid black; /* Optional: add if you want horizontal borders between rows */
+  }
+
+  .ranking-cell{
+    padding-left: 20px ;
+  }
